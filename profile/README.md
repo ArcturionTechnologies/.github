@@ -15,7 +15,6 @@ This GitHub organization is a place to showcase and share what we build, test, a
 | [The Arcturion Universe](https://arcturiongroup.com/work/arcturion-universe) | Shared context, specialized agent responsibilities, and human review. Includes an interactive workflow illustration with synthetic data; no live model calls or external actions. |
 | [Arcturion Finance](https://arcturiongroup.com/work/arcturion-finance) | A personal accounting application project, with recorded backend outputs for categorization, reconciliation, and reporting using synthetic records. |
 | [System architecture](https://arcturiongroup.com/architecture) | An explorable design connecting knowledge, agent workflows, approval boundaries, tools, and evaluation. |
-| [Dark Ascendant web project](https://github.com/ArcturionTechnologies/darkascendant-web) | Public source for a digital product landing page. |
 
 ## What we are exploring
 
