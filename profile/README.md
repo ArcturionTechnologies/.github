@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://arcturiongroup.com">Website</a> ·
 <a href="https://github.com/ArcturionTechnologies/.github/blob/main/docs/mission.md">Our purpose</a> ·
-<a href="#explore-the-work">Explore the work</a> ·
+<a href="#-explore-the-work">Explore the work</a> ·
 <a href="https://github.com/ArcturionTechnologies/.github/blob/main/docs/evidence.md">Evidence</a> ·
 <a href="https://github.com/ArcturionTechnologies/.github/blob/main/docs/contributing.md">Join the conversation</a>
 </p>
