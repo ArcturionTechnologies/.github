@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="860" viewBox="0 0 1440 860" role="img" aria-labelledby="title desc">
+<title id="title">Six responsibilities, one human purpose</title><desc id="desc">A conceptual map connecting human direction, source context, agent workflow, review boundaries, connected tools, and evaluation. This is not a live dashboard.</desc>
+<rect width="1440" height="860" rx="24" fill="#071022"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="70" y="75" fill="#6ee7d8" font-size="24" letter-spacing="4">CONCEPTUAL SYSTEM MAP</text>
+<text x="65" y="145" fill="#f1f7fa" font-size="51" font-weight="700">Six responsibilities. One human purpose.</text>
+<g><rect x="70" y="202" width="610" height="152" rx="14" fill="#102033" stroke="#284256"/>
+<text x="95" y="253" fill="#6ee7d8" font-size="31" font-weight="700">01</text>
+<text x="161" y="251" fill="#f1f7fa" font-size="27" font-weight="600">HUMAN DIRECTION</text>
+<text x="95" y="309" fill="#b4c8d9" font-size="24">Define the task and its boundaries.</text></g>
+<g><rect x="730" y="202" width="610" height="152" rx="14" fill="#102033" stroke="#284256"/>
+<text x="755" y="253" fill="#6ee7d8" font-size="31" font-weight="700">02</text>
+<text x="821" y="251" fill="#f1f7fa" font-size="27" font-weight="600">SOURCE CONTEXT</text>
+<text x="755" y="309" fill="#b4c8d9" font-size="24">Find evidence. Keep uncertainty visible.</text></g>
+<g><rect x="70" y="390" width="610" height="152" rx="14" fill="#102033" stroke="#284256"/>
+<text x="95" y="441" fill="#6ee7d8" font-size="31" font-weight="700">03</text>
+<text x="161" y="439" fill="#f1f7fa" font-size="27" font-weight="600">AGENT WORKFLOW</text>
+<text x="95" y="497" fill="#b4c8d9" font-size="24">Give each part a clear responsibility.</text></g>
+<g><rect x="730" y="390" width="610" height="152" rx="14" fill="#102033" stroke="#284256"/>
+<text x="755" y="441" fill="#6ee7d8" font-size="31" font-weight="700">04</text>
+<text x="821" y="439" fill="#f1f7fa" font-size="27" font-weight="600">REVIEW BOUNDARIES</text>
+<text x="755" y="497" fill="#b4c8d9" font-size="24">Keep consequential choices with people.</text></g>
+<g><rect x="70" y="578" width="610" height="152" rx="14" fill="#102033" stroke="#284256"/>
+<text x="95" y="629" fill="#6ee7d8" font-size="31" font-weight="700">05</text>
+<text x="161" y="627" fill="#f1f7fa" font-size="27" font-weight="600">CONNECTED TOOLS</text>
+<text x="95" y="685" fill="#b4c8d9" font-size="24">Perform authorized work. Check results.</text></g>
+<g><rect x="730" y="578" width="610" height="152" rx="14" fill="#102033" stroke="#284256"/>
+<text x="755" y="629" fill="#6ee7d8" font-size="31" font-weight="700">06</text>
+<text x="821" y="627" fill="#f1f7fa" font-size="27" font-weight="600">EVALUATION</text>
+<text x="755" y="685" fill="#b4c8d9" font-size="24">Observe, test, revise, and learn.</text></g>
+<path d="M688 278H722M374 361V381M1034 361V381M688 466H722M374 549V569M1034 549V569M688 654H722" stroke="#6ee7d8" stroke-width="2" stroke-dasharray="3 7"/>
+<text x="70" y="811" fill="#b4c8d9" font-size="21">A design explainer. Each project's evidence and limits remain separate.</text></g></svg>
