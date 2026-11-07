@@ -6,7 +6,18 @@
 
 Arcturion Technologies is a Founder-led personal development project exploring how AI and practical software can help people navigate complex work with more clarity, dignity, and agency.
 
-The tools below are pieces of that exploration: small, inspectable projects for building and evaluating agents, organizing information, and operating workflows. They are works in progress; the individual repositories describe their setup, scope, and limits.
+These open-source projects give developers ways to organize agent instructions and skills, evaluate behavior, and work with memory. They are works in progress; each repository describes its setup, scope, and limits.
+
+## Start here
+
+| Project | Try it for |
+| --- | --- |
+| [Harness Neutrality](https://github.com/ArcturionTechnologies/harness-neutrality) | Generate instruction files from one JSON configuration and check them for drift. |
+| [Constellation Architecture](https://github.com/ArcturionTechnologies/constellation-architecture) | Explore a file-first agent workspace, ATLAS, and boot design in the [architecture tour](https://arcturiontechnologies.github.io/constellation-architecture/). |
+| [Arcturion Evals](https://github.com/ArcturionTechnologies/arcturion-evals) | Run an offline evaluation using a synthetic replay agent and inspect the results. |
+| [Arcturion Skill Sync](https://github.com/ArcturionTechnologies/arcturion-skill-sync) | Link skills from a manifest and check the managed projections for drift. |
+| [Arcturion Memory](https://github.com/ArcturionTechnologies/arcturion-memory) | Audit and search Markdown memory; preview or rebuild its indexes. |
+| [Arcturion Flywheel](https://github.com/ArcturionTechnologies/arcturion-flywheel) | Turn feedback and decisions into evaluation cases and training data for review. |
 
 ## Explore the architecture
 
@@ -52,3 +63,4 @@ The broader aim is to make complicated systems easier to understand and act with
 Questions, useful examples, and thoughtful improvements are welcome in the relevant repository's issues. If a project helps you, a star is appreciated.
 
 [Website](https://arcturiongroup.com) · [Founder: Robert Lingoes](https://github.com/Robert-ArcturionTech) · [Contribution guide](https://github.com/ArcturionTechnologies/.github/blob/main/docs/contributing.md)
+
