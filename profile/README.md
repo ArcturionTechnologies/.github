@@ -23,6 +23,10 @@ These open-source projects give developers ways to organize agent instructions a
 
 [Constellation Architecture](https://github.com/ArcturionTechnologies/constellation-architecture) opens the map behind the tools: a clean sample agent workspace, a selective ATLAS folder tour, the Brain’s anatomy and retrieval flow, and the protected boot design. Start with [the system map](https://github.com/ArcturionTechnologies/constellation-architecture/blob/main/docs/system-map.md), then inspect the example and contribute a reproducible improvement.
 
+## Inside the Brain
+
+[Arcturion Brain](https://github.com/ArcturionTechnologies/arcturion-brain) opens the source behind the constellation’s connected context: file ingestion, a typed knowledge graph, and source-linked retrieval through Python, HTTP and MCP. Explore [edges and predicates](https://github.com/ArcturionTechnologies/arcturion-brain/blob/main/docs/relationships.md) to see how dependencies, stewardship, evidence and changing decisions can travel together in an agent’s context. The repository documents its configuration, tested paths and integration limits.
+
 ## Build and improve agents
 
 | Project | What it helps you do |
