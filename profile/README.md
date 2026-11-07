@@ -1,93 +1,45 @@
 <picture>
-  <img alt="Arcturion Technologies — applied AI, systems, and human agency, against a luminous blue spiral galaxy" src="https://raw.githubusercontent.com/ArcturionTechnologies/.github/main/assets/studio-galactic.png" width="100%">
+  <img alt="Arcturion Technologies — a luminous blue spiral galaxy" src="https://raw.githubusercontent.com/ArcturionTechnologies/.github/main/assets/studio-galactic.png" width="100%">
 </picture>
 
-<p align="center"><strong>Personal development project · AI-assisted building · Work in progress</strong></p>
+# Technology for a clearer next step
 
-<p align="center">
-<a href="https://arcturiongroup.com">Website</a> ·
-<a href="https://github.com/ArcturionTechnologies/.github/blob/main/docs/mission.md">Our purpose</a> ·
-<a href="#user-content--explore-the-work">Explore the work</a> ·
-<a href="https://github.com/ArcturionTechnologies/.github/blob/main/docs/evidence.md">Evidence</a> ·
-<a href="https://github.com/ArcturionTechnologies/.github/blob/main/docs/contributing.md">Join the conversation</a>
-</p>
+Arcturion Technologies is a Founder-led personal development project exploring how AI and practical software can help people navigate complex work with more clarity, dignity, and agency.
 
-## 🌍 A future people can navigate.
+The tools below are pieces of that exploration: small, inspectable projects for building and evaluating agents, organizing information, and operating workflows. They are works in progress; the individual repositories describe their setup, scope, and limits.
 
-We want to make a complicated world easier to navigate.
+## Build and improve agents
 
-Paperwork, scattered information, opaque processes, and endless small decisions can turn an ordinary task into an exhausting one. Our direction is to build tools that bring context together, make the next step clearer, and keep the person in control.
+| Project | What it helps you do |
+| --- | --- |
+| [Arcturion Evals](https://github.com/ArcturionTechnologies/arcturion-evals) | Run repeatable agent evaluations and track results over time. |
+| [Arcturion Flywheel](https://github.com/ArcturionTechnologies/arcturion-flywheel) | Turn feedback and decisions into evaluation cases and training data. |
+| [Arcturion Skill Sync](https://github.com/ArcturionTechnologies/arcturion-skill-sync) | Share skill folders across supported agent harnesses from one manifest. |
+| [Arcturion Grounding Gates](https://github.com/ArcturionTechnologies/arcturion-grounding-gates) | Add hooks that prompt verification and help catch repeated questions or unsupported completion claims. |
 
-This matters for people who think differently, feel overwhelmed by complex systems, or simply need a little more breathing room. Our aim is more **clarity, dignity, and agency**—and technology that supports cooperation and peaceful problem-solving.
+## Work with information and decisions
 
-**Arcturion Technologies is a personal, Founder-led development project.** This organization showcases our experiments, engineering, and lessons as we build toward that purpose.
+| Project | What it helps you do |
+| --- | --- |
+| [Arcturion Decision Router](https://github.com/ArcturionTechnologies/arcturion-decision-router) | Route bounded decisions through rules or optional model advice, with recorded receipts. |
+| [Arcturion Memory](https://github.com/ArcturionTechnologies/arcturion-memory) | Audit, deduplicate, index, and search agent memory files. |
+| [Arcturion Research](https://github.com/ArcturionTechnologies/arcturion-research) | Route a research query to multiple sources and combine results. |
 
-[Read the purpose behind the work →](https://github.com/ArcturionTechnologies/.github/blob/main/docs/mission.md)
+## Operate and maintain systems
 
----
+| Project | What it helps you do |
+| --- | --- |
+| [Arcturion Governance](https://github.com/ArcturionTechnologies/arcturion-governance) | Inspect workspace drift, record decisions, and manage maintenance workflows. |
+| [Arcturion Gate](https://github.com/ArcturionTechnologies/arcturion-gate) | Explore a local credential store and controlled credential-use workflows. **Early project; not independently security audited.** |
+| [Arcturion Web Monitor](https://github.com/ArcturionTechnologies/arcturion-web-monitor) | Check configured web pages and report changes in availability. |
+| [Arcturion Workflows](https://github.com/ArcturionTechnologies/arcturion-workflows) | Define n8n workflows in JSON and build or manage them as code. |
 
-## 🧩 Explore the work
+## Start exploring
 
-| Start here | What you can explore | Evidence type |
-| :--- | :--- | :--- |
-| **[The Arcturion Universe](https://arcturiongroup.com/work/arcturion-universe#demonstration)** | How shared context, specialized agent responsibilities, and human review fit together. | Interactive illustration · synthetic data |
-| **[Arcturion Finance](https://arcturiongroup.com/work/arcturion-finance#demonstration)** | Categorization, reconciliation, and reporting from an accounting application project. | Recorded backend outputs · synthetic records |
-| **[From a confusing notice to a clear plan](https://github.com/ArcturionTechnologies/.github/blob/main/docs/notice-to-plan.md)** | A fictional paperwork journey: extract facts, surface uncertainty, organize evidence, and choose the next step. | Conceptual walkthrough |
-| **[The system design](https://github.com/ArcturionTechnologies/.github/blob/main/docs/architecture.md)** | Six connected responsibilities, from human direction to evaluation. | Conceptual architecture |
+Each repository has its own setup instructions and examples. For an offline introduction, try the [Evals quickstart](https://github.com/ArcturionTechnologies/arcturion-evals#quickstart) with its synthetic replay agent, or build an example workflow with [Arcturion Workflows](https://github.com/ArcturionTechnologies/arcturion-workflows#quickstart).
 
-Each example labels what it demonstrates and explains the scope of its evidence.
+The broader aim is to make complicated systems easier to understand and act within, while keeping meaningful choices with the person. Read more about [the purpose](https://github.com/ArcturionTechnologies/.github/blob/main/docs/mission.md), [the system design](https://github.com/ArcturionTechnologies/.github/blob/main/docs/architecture.md), and [the evidence and its limits](https://github.com/ArcturionTechnologies/.github/blob/main/docs/evidence.md).
 
----
+Questions, useful examples, and thoughtful improvements are welcome in the relevant repository's issues. If a project helps you, a star is appreciated.
 
-## 🔭 On the engineering bench
-
-Seven areas of work, each with a public design note. These notes describe development projects; they are not software release announcements.
-
-| Area | The problem we are working on | Explore |
-| :--- | :--- | :--- |
-| **Consistent agent instructions** | Keeping the same instructions coherent across different coding tools. | [Cross-harness consistency](https://github.com/ArcturionTechnologies/.github/blob/main/docs/engineering/cross-harness.md) |
-| **Better agent behavior** | Grounded time, proportionate answers, and recovery from repetitive work. | [Agent experience](https://github.com/ArcturionTechnologies/.github/blob/main/docs/engineering/agent-experience.md) |
-| **Engineering workflows** | Finding relevant code, reviewing changes, and using repeatable scaffolds. | [Build and review](https://github.com/ArcturionTechnologies/.github/blob/main/docs/engineering/build-and-review.md) |
-| **Spotify tool integration** | Connecting a familiar application to explicit, inspectable tool requests. | [Music tools](https://github.com/ArcturionTechnologies/.github/blob/main/docs/engineering/music-tools.md) |
-| **Apple Reminders integration** | Turning clear next steps into tasks people can revisit. | [Task tools](https://github.com/ArcturionTechnologies/.github/blob/main/docs/engineering/task-tools.md) |
-| **Model routing** | Matching work to a model while respecting local resource constraints. | [Resource-aware routing](https://github.com/ArcturionTechnologies/.github/blob/main/docs/engineering/model-routing.md) |
-| **Usage visibility** | Understanding recorded tokens, latency, attribution, and cost estimates. | [Observability](https://github.com/ArcturionTechnologies/.github/blob/main/docs/engineering/observability.md) |
-
-[How we share without exposing private material →](https://github.com/ArcturionTechnologies/.github/blob/main/docs/sharing.md)
-
----
-
-## 🧪 Evidence we can point to
-
-**33 local tests passed** for the staged cross-harness instruction generator on **October 6, 2026**. The checks covered generation, permitted differences, drift detection, setup failures, and CLI behavior.
-
-The Finance case study documents **45 selected backend tests passed on October 4, 2026**, alongside recorded synthetic-data outputs. That is a scoped historical result, not a full application certification.
-
-[Read the evidence, dates, and limits →](https://github.com/ArcturionTechnologies/.github/blob/main/docs/evidence.md)
-
----
-
-## 🤝 The way we want to build
-
-| Principle | What it means here |
-| :--- | :--- |
-| **Human agency** | Make the next step understandable and keep consequential choices with the person. |
-| **Clarity and accessibility** | Favor plain language, manageable steps, visible uncertainty, and recoverable work. |
-| **Privacy and dignity** | Use synthetic public examples and protect private records and ventures. |
-| **Evidence and honesty** | Say what was tested, what was observed, and what remains unknown. |
-| **Peace and cooperation** | Build toward less friction, more understanding, and useful collaboration. |
-
-The public engineering demonstrates pieces of our approach. Tools specifically intended to help people navigate bureaucracy are a development direction; their usefulness for that purpose still needs to be evaluated with the people they are intended to support.
-
----
-
-## 💬 Build the future with us
-
-Thoughtful questions, accessibility feedback, documentation fixes, and suggestions for clearer workflows are welcome. Share the problem in general terms; keep personal records and sensitive details private.
-
-[Contribution guide](https://github.com/ArcturionTechnologies/.github/blob/main/docs/contributing.md) · [Sharing principles](https://github.com/ArcturionTechnologies/.github/blob/main/docs/sharing.md) · [Project evidence](https://github.com/ArcturionTechnologies/.github/blob/main/docs/evidence.md)
-
-**Website:** [arcturiongroup.com](https://arcturiongroup.com)  
-**Founder:** [Robert Lingoes](https://github.com/Robert-ArcturionTech)
-
-<sub>Requirements, architecture, and review are human-directed. Implementation is AI-assisted. A personal project shared as work in progress, with scoped demonstrations and dated evidence.</sub>
+[Website](https://arcturiongroup.com) · [Founder: Robert Lingoes](https://github.com/Robert-ArcturionTech) · [Contribution guide](https://github.com/ArcturionTechnologies/.github/blob/main/docs/contributing.md)
