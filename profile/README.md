@@ -12,6 +12,7 @@ The tools below are pieces of that exploration: small, inspectable projects for 
 
 | Project | What it helps you do |
 | --- | --- |
+| [Harness Neutrality](https://github.com/ArcturionTechnologies/harness-neutrality) | Generate and check consistent agent instruction files from one JSON configuration. |
 | [Arcturion Evals](https://github.com/ArcturionTechnologies/arcturion-evals) | Run repeatable agent evaluations and track results over time. |
 | [Arcturion Flywheel](https://github.com/ArcturionTechnologies/arcturion-flywheel) | Turn feedback and decisions into evaluation cases and training data. |
 | [Arcturion Skill Sync](https://github.com/ArcturionTechnologies/arcturion-skill-sync) | Share skill folders across supported agent harnesses from one manifest. |
@@ -36,7 +37,11 @@ The tools below are pieces of that exploration: small, inspectable projects for 
 
 ## Start exploring
 
-Each repository has its own setup instructions and examples. For an offline introduction, try the [Evals quickstart](https://github.com/ArcturionTechnologies/arcturion-evals#quickstart) with its synthetic replay agent, or build an example workflow with [Arcturion Workflows](https://github.com/ArcturionTechnologies/arcturion-workflows#quickstart).
+Each repository has its own setup instructions and examples. Three offline starting points:
+
+- Generate and check example instruction files with [Harness Neutrality](https://github.com/ArcturionTechnologies/harness-neutrality#quick-start) on macOS or Linux.
+- Run the [Evals quickstart](https://github.com/ArcturionTechnologies/arcturion-evals#quickstart) with its synthetic replay agent.
+- Build an example n8n workflow locally with [Arcturion Workflows](https://github.com/ArcturionTechnologies/arcturion-workflows#quickstart).
 
 The broader aim is to make complicated systems easier to understand and act within, while keeping meaningful choices with the person. Read more about [the purpose](https://github.com/ArcturionTechnologies/.github/blob/main/docs/mission.md), [the system design](https://github.com/ArcturionTechnologies/.github/blob/main/docs/architecture.md), and [the evidence and its limits](https://github.com/ArcturionTechnologies/.github/blob/main/docs/evidence.md).
 
