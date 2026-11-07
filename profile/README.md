@@ -8,6 +8,10 @@ Arcturion Technologies is a Founder-led personal development project exploring h
 
 The tools below are pieces of that exploration: small, inspectable projects for building and evaluating agents, organizing information, and operating workflows. They are works in progress; the individual repositories describe their setup, scope, and limits.
 
+## Explore the architecture
+
+[Constellation Architecture](https://github.com/ArcturionTechnologies/constellation-architecture) opens the map behind the tools: a clean sample agent workspace, a selective ATLAS folder tour, the Brain’s anatomy and retrieval flow, and the protected boot design. Start with [the system map](https://github.com/ArcturionTechnologies/constellation-architecture/blob/main/docs/system-map.md), then inspect the example and contribute a reproducible improvement.
+
 ## Build and improve agents
 
 | Project | What it helps you do |
