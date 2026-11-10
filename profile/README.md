@@ -25,7 +25,7 @@ These open-source projects give developers ways to organize agent instructions a
 
 ## Inside the Brain
 
-[Arcturion Brain](https://github.com/ArcturionTechnologies/arcturion-brain) opens the source behind the constellation’s connected context: file ingestion, a typed knowledge graph, and source-linked retrieval through Python, HTTP and MCP. Explore [edges and predicates](https://github.com/ArcturionTechnologies/arcturion-brain/blob/main/docs/relationships.md) to see how dependencies, stewardship, evidence and changing decisions can travel together in an agent’s context. The repository documents its configuration, tested paths and integration limits.
+[Arcturion Brain](https://github.com/ArcturionTechnologies/arcturion-brain) opens the source behind the constellation’s connected context: file ingestion, a typed knowledge graph, and source-linked retrieval through Python, HTTP and MCP. Explore [edges and predicates](https://github.com/ArcturionTechnologies/arcturion-brain/blob/main/docs/relationships.md) to see how dependencies, stewardship, evidence and changing decisions can travel together in an agent’s context. The repository documents its configuration, tested paths and integration limits. Try the [interactive Brain demonstration](https://arcturiontechnologies.github.io/arcturion-brain/) to explore an invented project’s relationships and context packs, entirely in your browser.
 
 ## Build and improve agents
 
